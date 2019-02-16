@@ -1,0 +1,34 @@
+[
+    {
+        "Company (Faker Example 1/2)": "Garcia, Evans and Morgan",
+        "Credit Card Expiration (Faker Example 2/2)": "06/23",
+        "Food (Array Example 1/2)": "Burger\"s",
+        "Drink (Array Example 2/2)": "Tea",
+        "Element (Hooks Example 1/2)": "Fire",
+        "Abode (Hooks Example 2/2)": "House"
+    },
+    {
+        "Company (Faker Example 1/2)": "Joseph PLC",
+        "Credit Card Expiration (Faker Example 2/2)": "10/28",
+        "Food (Array Example 1/2)": "Taco's",
+        "Drink (Array Example 2/2)": "Milk",
+        "Element (Hooks Example 1/2)": "Earth",
+        "Abode (Hooks Example 2/2)": "Apartment"
+    },
+    {
+        "Company (Faker Example 1/2)": "Nunez PLC",
+        "Credit Card Expiration (Faker Example 2/2)": "03/24",
+        "Food (Array Example 1/2)": "Burger\"s",
+        "Drink (Array Example 2/2)": "Water",
+        "Element (Hooks Example 1/2)": "Earth",
+        "Abode (Hooks Example 2/2)": "Apartment"
+    },
+    {
+        "Company (Faker Example 1/2)": "Black, Campos and Moore",
+        "Credit Card Expiration (Faker Example 2/2)": "11/26",
+        "Food (Array Example 1/2)": "Taco's",
+        "Drink (Array Example 2/2)": "Milk",
+        "Element (Hooks Example 1/2)": "Fire",
+        "Abode (Hooks Example 2/2)": "Apartment"
+    }
+]

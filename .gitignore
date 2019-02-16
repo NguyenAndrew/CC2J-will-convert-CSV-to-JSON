@@ -112,3 +112,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# cc2j files
+/output.json
+
+#vscode
+.vscode
